@@ -1,6 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Vitor and my nickname is "vitaovisky"!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaovisky&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Learning.
 
