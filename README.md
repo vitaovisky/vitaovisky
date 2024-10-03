@@ -4,4 +4,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaovisky&show_icons=true&theme=transparent)
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitaovisky/vitaovisky/blob/output/github-contribution-grid-snake.svg)
